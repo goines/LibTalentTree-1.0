@@ -1,0 +1,7 @@
+Lib/
+LibStub
+LibStub/
+
+.vscode/
+
+.DS_Store
